@@ -33,8 +33,8 @@ Fedora, sponsored by Red Hat, is a cutting-edge distribution aimed at developers
 
 ## Section 3: Basic Linux Commands
 
-ls    :Lists files and directories in the current directory__
-cd    :Changes the current directory__
+ls    :Lists files and directories in the current directory  
+cd    :Changes the current directory  
 pwd   :Prints the current working directory
 mkdir :create a new directory
 rmdir :Removes an empty directory
