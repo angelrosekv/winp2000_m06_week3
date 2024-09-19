@@ -35,24 +35,24 @@ Fedora, sponsored by Red Hat, is a cutting-edge distribution aimed at developers
 
 ls    :Lists files and directories in the current directory  
 cd    :Changes the current directory  
-pwd   :Prints the current working directory
-mkdir :create a new directory
-rmdir :Removes an empty directory
-rm    :Remove files
-rm -r :remove directory 
-cp    :copies file
-cp -r :copies directory 
-mv    :Moves or renames files or directories
-touch :Creates an empty file or updates the timestamp of an existing file
-cat   :Concatenates and displays the content of files
-chmod :Changes the permissions of a file or directory
-ps    : Displays information about active processes
-top   :Provides a view of system processes and resource usage
-grep  :Searches for patterns in files
-man   :Displays the manual for a command
-sudo  :Execute a command as a superuser
-df -h :Display disk space usage
-free  :Display memory usage
+pwd   :Prints the current working directory  
+mkdir :create a new directory  
+rmdir :Removes an empty directory  
+rm    :Remove files  
+rm -r :remove directory   
+cp    :copies file  
+cp -r :copies directory   
+mv    :Moves or renames files or directories  
+touch :Creates an empty file or updates the timestamp of an existing file  
+cat   :Concatenates and displays the content of files  
+chmod :Changes the permissions of a file or directory  
+ps    : Displays information about active processes  
+top   :Provides a view of system processes and resource usage  
+grep  :Searches for patterns in files  
+man   :Displays the manual for a command  
+sudo  :Execute a command as a superuser  
+df -h :Display disk space usage  
+free  :Display memory usage  
 
 
 ## Conclusion
